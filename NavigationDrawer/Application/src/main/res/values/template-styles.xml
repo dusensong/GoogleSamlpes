@@ -34,7 +34,7 @@
         <item name="android:paddingRight">@dimen/horizontal_page_margin</item>
     </style>
 
-<style name="Widget.SampleMessage">
+    <style name="Widget.SampleMessage">
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
         <item name="android:textColor">@color/black_54</item>
@@ -57,8 +57,7 @@
         <item name="contentPadding">@dimen/card_padding</item>
     </style>
 
-    <style name="Widget.SampleDashboard.Item" parent="Widget">
-    </style>
+    <style name="Widget.SampleDashboard.Item" parent="Widget"></style>
 
     <style name="Widget.SampleDashboard.Item.Title" parent="Widget">
         <item name="android:layout_marginBottom">@dimen/margin_tiny</item>
